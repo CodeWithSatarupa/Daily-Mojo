@@ -4,7 +4,7 @@ body {
   padding: 0;
   font-family:'Times New Roman', Times, serif;
   height: 100vh;
-  background: url('file:///C:/Users/Asus/Desktop/College%20Works/Projects/Web%20Application%20To-do%20lists/pexels-polina-kovaleva-5546851.jpg') no-repeat left center;
+  background: url('background\ img.jpg') no-repeat left center;
   background-size:cover;
   display: flex;
 justify-content: flex-end;
